@@ -1,0 +1,9 @@
+# Arquivos gerados pelo Maven
+Atividade7PI/target/
+
+# Arquivos privados do NetBeans
+Atividade7PI/nbproject/private/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
